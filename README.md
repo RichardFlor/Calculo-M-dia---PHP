@@ -1,1 +1,1 @@
-# Calculo-M-dia---PHP
+# Calculo-Media---PHP
